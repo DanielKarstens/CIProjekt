@@ -6,5 +6,9 @@ namespace CIProjekt
 {
     class Person
     {
+        string getAddress()
+        {
+            return "Elisagårdsvej 5";
+        }
     }
 }
